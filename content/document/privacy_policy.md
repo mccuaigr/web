@@ -96,13 +96,10 @@ Where possible, IP addresses are truncated or anonymised immediately upon collec
 ### 4.3 Legal Basis (GDPR Art. 6)
 We rely on:
 - Art. 6(1)(f) — Legitimate interest (analytics, security monitoring)
-- Art. 6(1)(a) — Consent (where required for non-essential cookies or tracking)
-A documented Legitimate Interest Assessment (LIA) is maintained where required.
+- Art. 6(1)(a) — Consent 
 
 ### 4.4 Retention
 - Raw analytics and log data: maximum 12 months
-
-Retention periods are defined in accordance with ISO 27001 control requirements for information lifecycle management.
 
 ### 4.5 Cookies and Similar Technologies
 We use cookies and similar technologies in compliance with the ePrivacy Directive and GDPR.
