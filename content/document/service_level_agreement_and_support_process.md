@@ -53,6 +53,7 @@ The following definitions apply to the SLA:
     Safespring object Storage Service accessed via S3.
 -   **BACKUP**  
     Safespring cloud backup service.
+-   **Kubernetes Platform**  
 -   Instances hosted as part of the Safespring Service.
 
 ### Unavailability
@@ -160,6 +161,7 @@ unexpected downtime.
 -   Compute
 -   Storage
 -   Backup
+-   Kubernetes Platform 
 
 ### Service Level Guarantee
 
